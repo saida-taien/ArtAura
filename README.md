@@ -21,5 +21,5 @@ Welcome to ArtAura: Ceramics and Pottery, where craftsmanship meets creativity i
 
 # To clone this project and run your local computer :
 - copy link and clone
-- install npm
+-  npm install
 - npm run dev 
